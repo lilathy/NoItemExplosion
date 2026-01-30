@@ -1,0 +1,7 @@
+name: NoExplosion
+version: 1.0.0
+main: com.noexplosion.NoExplosionPlugin
+api-version: 1.21
+description: Makes dropped items invincible to explosions
+author: YourName
+website: https://example.com
