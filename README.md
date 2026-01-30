@@ -31,7 +31,3 @@ Java 21, then:
 ```
 
 JAR ends up in `build/libs/NoExplosion-1.0.0.jar`. Put that in `plugins` and you’re good.
-
-## Quick check
-
-Drop some stuff, blow something up next to it. Items should still be there. If knockback’s on they’ll have shifted a bit; if it’s off they’ll be exactly where they were. If anything’s weird, make sure you’re on Paper 1.21+ and the plugin shows up as enabled.
