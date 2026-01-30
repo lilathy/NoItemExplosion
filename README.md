@@ -14,8 +14,7 @@ Grab the JAR, drop it in your server’s `plugins` folder, start or restart the 
 
 Everything’s in `plugins/NoExplosion/config.yml`. Restart or reload the plugin after you change it.
 
-**apply-velocity** (true/false, default true) — If true, items get a little push when an explosion hits them. If false, they’re only protected and don’t move. That’s the only option right now.
-
+**apply-velocity** (true/false, default true)  If true, items get a little push when an explosion hits them. If false, they’re only protected and don’t move.
 Example:
 
 ```yaml
@@ -30,4 +29,4 @@ Java 21, then:
 ./gradlew build
 ```
 
-JAR ends up in `build/libs/NoExplosion-1.0.0.jar`. Put that in `plugins` and you’re good.
+JAR ends up in `build/libs/NoExplosion-1.0.0.jar`.
