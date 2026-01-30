@@ -1,10 +1,6 @@
 # NoExplosion
 
-Dropped items don’t get blown up anymore. TNT, crystals, beds in the nether, respawn anchors — whatever. The loot stays. You can also choose whether items get a little knockback from the blast (so they scatter a bit like everything else) or just sit there untouched. Up to you.
-
-## Why Paper?
-
-NoExplosion is built for Paper. Paper’s basically a better Spigot — same game, same plugins, but faster and with way fewer weird bugs. If you’re on Spigot or Bukkit, swapping to Paper is usually worth it; your world and plugins keep working. This plugin only runs when something actually takes explosion damage, so it’s not sitting there doing work every tick. Needs Paper 1.21+ and Java 21.
+Dropped items don’t get blown up anymore. TNT, crystals, beds in the nether, respawn anchors — whatever. The loot stays. You can also choose whether items get a little knockback from the blast (so they scatter a bit like everything else) or just sit there untouched.
 
 ## What it does
 
